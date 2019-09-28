@@ -15,7 +15,7 @@ O código é uma aplicação Java (API RESTful), que foi configurada para operar
 ### Requests de teste (Exercício 1)
 
 **GET** */api/test/dog/{{name}}*  
-Response:  200 -> Name: {{name}}*
+Response:  200 -> Name: {{name}}
 
 **GET** *api/test/dogcolor/{{name}}*  
 Response: 200 -> Always Black!
